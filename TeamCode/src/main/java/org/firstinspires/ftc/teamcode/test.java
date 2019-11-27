@@ -1,4 +1,4 @@
 package org.firstinspires.ftc.teamcode;
-// Test class
+// Test
 public class test {
 }
